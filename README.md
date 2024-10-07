@@ -19,9 +19,9 @@ IMP !! go to server.cfg and set steam web api
 
 ## Logs
 
-```exports['jomidar-admin']:CreateLog('Inventory', 'Added item or something')```
+```exports['3q_adminmenu']:CreateLog('Inventory', 'Added item or something')```
 
-```exports['jomidar-admin']:CreateLog('Inventory', 'Added item or something', 'DATA HERE')```
+```exports['3q_adminmenu']:CreateLog('Inventory', 'Added item or something', 'DATA HERE')```
 
 ## If You want to report bugs and want support Join Our Discord Server
 
