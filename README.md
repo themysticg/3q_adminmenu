@@ -23,11 +23,11 @@ IMP !! go to server.cfg and set steam web api
 
 ```exports['jomidar-admin']:CreateLog('Inventory', 'Added item or something', 'DATA HERE')```
 
-# If You want to report bugs and want support Join Our Discord Server
+## If You want to report bugs and want support Join Our Discord Server
 
-## Three Queens® | Shop
+### Three Queens® | Shop
 https://discord.me/3qshop
-## Three Queens® | Roleplay NA
+### Three Queens® | Roleplay NA
 https://discord.me/3qrpna
-## Three Queens® | Roleplay SA
+### Three Queens® | Roleplay SA
 https://discord.me/3qrpsa
